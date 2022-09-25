@@ -1,17 +1,17 @@
 let fs = require('fs') 
 let chalk = require('chalk')
 
-owner = [
-  ['62895330379186'],
-  ['62895330379186'],
-  ['62895330379186', 'Owner', true]
+pemilik  = [
+
+  [ '6281770887696],
+, 'Pemilik' , benar ]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 mods = [] // Want some help?
 prems = [] // Premium user has unlimited limit
 APIs = { // API Prefix
   // name: 'https://website'
-  nrtm: 'https://nurutomo.herokuapp.com',
+  nrtm: 'https://nurutomo.herkuapp.com',
   xteam: 'https://api.xteam.xyz',
   zahir: 'https://zahirr-web.herokuapp.com',
   bcil: 'https://75.119.137.248:21587',
